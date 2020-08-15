@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat
-  attr_accessible: 
+  attr_accessible :name
 end
 
 maru = Cat.new
